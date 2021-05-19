@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DashboardReact/static/css/main.bf96f2b2.chunk.css",
-    "main.js": "/DashboardReact/static/js/main.74dc6f41.chunk.js",
-    "main.js.map": "/DashboardReact/static/js/main.74dc6f41.chunk.js.map",
+    "main.js": "/DashboardReact/static/js/main.e30da4f2.chunk.js",
+    "main.js.map": "/DashboardReact/static/js/main.e30da4f2.chunk.js.map",
     "runtime-main.js": "/DashboardReact/static/js/runtime-main.70664a98.js",
     "runtime-main.js.map": "/DashboardReact/static/js/runtime-main.70664a98.js.map",
     "static/js/2.ae03486f.chunk.js": "/DashboardReact/static/js/2.ae03486f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.70664a98.js",
     "static/js/2.ae03486f.chunk.js",
     "static/css/main.bf96f2b2.chunk.css",
-    "static/js/main.74dc6f41.chunk.js"
+    "static/js/main.e30da4f2.chunk.js"
   ]
 }
